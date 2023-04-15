@@ -1,0 +1,4 @@
+*.amx
+omp-server
+log.txt
+bans.json
